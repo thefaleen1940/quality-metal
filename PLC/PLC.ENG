@@ -1,0 +1,60 @@
+1,Purge
+2,Purge Reset
+3,At home
+4,Grip1 part present
+5,Grip2 part present
+6,Flip part present
+7,Parts counter
+8,Blowoff
+9,Grip1 opened
+10,Grip1 closed
+11,Toggle gripper1
+12,Open grip1
+13,Close grip1
+14,GripFlip opened
+15,GripFlip closed
+16,Toggle gripFlip
+17,Open gripFlip
+18,Close gripFlip
+19,Grip2 opened
+20,Grip2 closed
+21,Toggle grip2
+22,Open grip2
+23,Close grip2
+24,Flip pos 1
+25,Flip pos 2
+26,Toggle Flip
+27,Flip pos 1
+28,Flip pos 2
+29,Prog select MAIN
+30,Prog select HOME
+31,Set active integer
+32,Check select MAIN
+33,Check select HOME
+34,Cycle start
+35,Strobe
+36,Hold
+37,Abort
+38,Motor On
+39,Alarm1
+40,Alarm2
+41,Alarm3
+42,Alarm4
+43,Alarm5
+44,Alarm6
+45,Alarm7
+46,Alarm8
+47,Alarm9
+48,Alarm10
+49,Stacklight Red
+50,Stacklight Amber
+51,Stacklight Green
+52,DUNK UP
+53,DUNK DOWN
+54,DUNK PRESENT
+55,DUNK IS DOWN
+56,DUNK IS UP
+57,REGRIP PRESENT
+58,BLOWOFF OUT
+59,BLOWOFF OUT
+

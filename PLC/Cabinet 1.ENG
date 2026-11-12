@@ -1,0 +1,47 @@
+1,Lock door
+2,Lock Up
+3,Lock Down
+4,Door is locked
+5,Refill Request
+6,Refill Request
+7,Lock drawer
+8,UnLock drawer
+9,Drawer 1 - In Process
+10,Drawer 2 - In Process
+11,Drawer 3 - In Process
+12,Drawer 4 - In Process
+13,Drawer 5 - In Process
+14,Drawer 6 - In Process
+15,Drawer 1 - Reset Complete
+16,Drawer 2 - Reset Complete
+17,Drawer 3 - Reset Complete
+18,Drawer 4 - Reset Complete
+19,Drawer 5 - Reset Complete
+20,Drawer 6 - Reset Complete
+21,Not In Process
+22,All Drawers Closed
+23,Drawer 1 Closed
+24,Drawer 2 Closed
+25,Drawer 3 Closed
+26,Drawer 4 Closed
+27,Drawer 5 Closed
+28,Drawer 6 Closed
+29,Drawer 1 Open
+30,Drawer 2 Open
+31,Drawer 3 Open
+32,Drawer 4 Open
+33,Drawer 5 Open
+34,Drawer 6 Open
+35,Drawer 1 Process Set
+36,Drawer 2 Process Set
+37,Drawer 3 Process Set
+38,Drawer 4 Process Set
+39,Drawer 5 Process Set
+40,Drawer 6 Process Set
+41,Drawer 1 Process ReSet
+42,Drawer 2 Process ReSet
+43,Drawer 3 Process ReSet
+44,Drawer 4 Process ReSet
+45,Drawer 5 Process ReSet
+46,Drawer 6 Process ReSet
+

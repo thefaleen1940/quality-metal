@@ -1,0 +1,17 @@
+1,MC1 part clamped OP10
+2,MC1 part unclamped OP10
+3,MC1 RDY for service Small
+4,MC1 RDY for service Large
+5,MC1 RDY for OP10
+6,MC1 Prove NG
+7,MC1 clamp OP10
+8,MC1 unclamp OP10
+9,MC1 robot in MC
+10,MC1 service complete
+11,MC1 Bit#1
+12,MC1 Bit#2
+13,MC1 Bi#4
+14,MC1 Bi#4
+15,MC1 Bit#16
+16,MC1 Bit#32
+

@@ -1,0 +1,17 @@
+1,MC2 part clamped OP10
+2,MC2 part unclamped OP10
+3,MC2 RDY for service
+4,MC2 Spare
+5,MC2 part clamped OP20
+6,MC2 part unclamped OP20
+7,MC2 Spare
+8,MC2 Spare
+9,MC2 clamp OP10
+10,MC2 unclamp OP10
+11,MC2 robot in MC
+12,MC2 service complete
+13,MC2 clamp OP20
+14,MC2 unclamp OP20
+15,MC2 Spare
+16,MC2 Spare
+
